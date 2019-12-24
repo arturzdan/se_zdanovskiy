@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f969989-bc52-4e19-8734-49a15abc3adc" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/h2_1_4_196.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/participant.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module/percentage/Percentage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module10/activity/QueueSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module10/activity/QueueWorker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module10/activity/TaskQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module10/sample/AnnoyedDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module10/sample/AnnoyingPassenger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module10/sample/Driver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module10/sample/Incrementer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module10/sample/IncrementerSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module10/sample/JoinThreadSample$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module10/sample/JoinThreadSample$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module10/sample/JoinThreadSample$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module10/sample/JoinThreadSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module10/sample/MultiThreadSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module10/sample/MultiThreadWorker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module10/sample/Passenger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module10/sample/PollingSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module10/sample/SingleThreadSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module10/sample/SingleThreadWorker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module10/sample/ThreadIncrementer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module10/sample/WaitNotifySample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module11/activity/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module11/activity/Notepad.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module11/activity/NotepadTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module11/activity/TextEditor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module11/activity/console/ConsoleTextEditor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module11/sample/ConsoleIOSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module11/sample/FileReadSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module11/sample/FileWriteSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module11/sample/ObjectReaderSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module11/sample/ObjectWriterSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module11/sample/StringBuilderVsStringBuffer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module12/activity/Chat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module12/activity/ChatServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module12/activity/ChatTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module12/activity/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module12/sample/ClientSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module12/sample/InetAddressSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module12/sample/ServerSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module12/sample/URLSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module13/activity/Account.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module13/activity/AccountDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module13/activity/AccountDAOException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module13/activity/AccountDAOImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module13/activity/AccountDAOTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module13/activity/AccountDAOTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module13/activity/AccountImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module13/activity/SEF Activity.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module13/sample/ConnectionSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module13/sample/InsertSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module13/sample/PreparedStatementSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module13/sample/StatementSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module14/sample/ActionListenerFrame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module14/sample/BorderLayoutFrame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module14/sample/ComplexFrame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module14/sample/LayoutFrameSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module14/sample/SimpleJFrame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module15/activity/Permissable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module15/activity/Permission.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module15/activity/PermissionList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module15/activity/PermissionsTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module15/activity/PermissionsTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module15/sample/AnnotationsSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module15/sample/AnnotationsSampleExt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module15/sample/AnonInnerClassSample$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module15/sample/AnonInnerClassSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module15/sample/AutoBoxingSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module15/sample/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module15/sample/EmployeeGenerics.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module15/sample/EnhancedForLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module15/sample/EnumBasic$Seasons.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module15/sample/EnumBasic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module15/sample/EnumSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module15/sample/FindMyTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module15/sample/GenericSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module15/sample/InnerClassSample$InnerWindowAdapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module15/sample/InnerClassSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module15/sample/MySingle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module15/sample/Seasons.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module15/sample/Single.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module15/sample/StaticImportSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module15/sample/Task.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module15/sample/UpperBound.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module15/sample/VarArgsSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module15/sample/WildCardSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module16/sample/Samples.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module16/sample/Samples.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module16/sample/SystemIdentifierDTD.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module16/sample/classlist.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module16/sample/classroom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module16/sample/example.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module16/sample/person.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module16/sample/person_DTD.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module16/sample/person_XSD.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module16/sample/quote.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module17/activity/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module17/activity/Sequence Diagram.vsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module17/activity/State Diagram.vsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module18/activity/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module18/activity/EmployeeImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module18/activity/EmployeeRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module18/activity/EmployeeRepositoryImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module18/activity/HRSSystemException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module18/activity/Project.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module18/activity/ProjectImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module18/activity/ProjectRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module18/activity/ProjectRepositoryImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module18/sample/MyCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module18/sample/MyCalculatorTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module18/sample/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module18/sample/ProductTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module18/sample/test/Module 18 Sample - Test Scenarios and Conditions.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module18/sample/test/MyCalculatorTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module2/sample/HelloWorld.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module3/activity/ArrayStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module3/activity/ArrayStackTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module3/activity/ArrayStackTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module3/sample/ArrayDeclarationSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module3/sample/CastingSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module3/sample/DataTypesSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module3/sample/DecisionSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module3/sample/ForLoopSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module3/sample/MainSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module3/sample/MethodSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module3/sample/MultiDimensionalArraySample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module3/sample/OperatorSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module3/sample/SwitchSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module3/sample/VariableDeclarationSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module3/sample/VariableScoping.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module3/sample/WhileLoopSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module4/activity/PlayingCard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module4/activity/PlayingCardTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module4/activity/PlayingCardTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module4/sample/ClassInstanceSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module4/sample/FinalizeSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module4/sample/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module4/sample/StaticSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module5/sample/AdapterClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module5/sample/AdapterInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module5/sample/AdapterSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module5/sample/FactorySample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module5/sample/Singleton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module5/sample/SingletonRecommended$SingletonHolder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module5/sample/SingletonRecommended.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module5/sample/SingltetonSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module5/sample/Worker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module5/sample/WorkerFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module5/sample/WorkerImplA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module5/sample/WorkerImplB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module5/sample/WorkerTypeA_Adapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module5/sample/WorkerTypeB_Adapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module6/activity/Point2D.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module6/activity/Point2DImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module6/activity/Point2DTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module6/activity/Point2DTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module6/activity/Point3D.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module6/activity/Point3DImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module6/activity/Point3DTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module6/activity/Point3DTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module6/sample/AbstractSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module6/sample/InheritanceSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module6/sample/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module6/sample/ReferenceCastingSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module6/sample/Speaker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module6/sample/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module6/sample/VirtualMethodSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module7/activity/Currency.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module7/activity/CurrencyImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module7/activity/CurrencyTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module7/activity/CurrencyTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module7/activity/Denomination.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module7/activity/DenominationImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module7/activity/DenominationTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module7/activity/DenominationTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module7/sample/General.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module7/sample/PersonSampleOne.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module7/sample/PersonSampleThree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module7/sample/PersonSampleTwo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module7/sample/SetterGetterSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module7/sample/Strategy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module7/sample/StrategyImplOne.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module7/sample/StrategyImplTwo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module7/sample/StrategySample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module8/activity/Account.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module8/activity/AccountException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module8/activity/AccountTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module8/activity/AccountTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module8/sample/ArrayExceptionSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module8/sample/AssertSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module8/sample/CheckedExceptionSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module8/sample/CustomException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module8/sample/CustomExceptionSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module8/sample/ErrorSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module8/sample/ExceptionDeclarationSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module8/sample/FormatExceptionSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module8/sample/SQLExceptionSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module8/sample/SpecifyExceptionSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module8/sample/TryCatchFinallySample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module9/activity/DistanceComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module9/activity/Radar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module9/activity/RadarContact.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module9/activity/RadarContactImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module9/activity/RadarContactTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module9/activity/RadarContactTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module9/activity/RadarImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module9/activity/RadarTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module9/activity/RadarTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module9/sample/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module9/sample/CollectionsSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module9/sample/ComparableSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module9/sample/ListSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module9/sample/MapSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module9/sample/QueueSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/module9/sample/SetSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/mytest/BadStyleCollectionWork.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/test/message/MMSMessage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/test/message/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/test/message/Message.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/sef/test/message/SMSMessage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/commons-logging.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/h2-1.4.196.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/ojdbc6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/participant.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module10/activity/QueueSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module10/activity/QueueWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module10/activity/TaskQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module10/sample/AnnoyedDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module10/sample/AnnoyingPassenger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module10/sample/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module10/sample/Incrementer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module10/sample/IncrementerSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module10/sample/JoinThreadSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module10/sample/MultiThreadSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module10/sample/MultiThreadWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module10/sample/Passenger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module10/sample/PollingSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module10/sample/SingleThreadSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module10/sample/SingleThreadWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module10/sample/ThreadIncrementer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module10/sample/WaitNotifySample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module11/activity/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module11/activity/Notepad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module11/activity/NotepadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module11/activity/TextEditor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module11/activity/console/ConsoleTextEditor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module11/sample/ConsoleIOSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module11/sample/FileReadSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module11/sample/FileWriteSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module11/sample/ObjectReaderSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module11/sample/ObjectWriterSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module11/sample/StringBuilderVsStringBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module12/activity/Chat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module12/activity/ChatServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module12/activity/ChatTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module12/activity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module12/sample/ClientSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module12/sample/InetAddressSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module12/sample/ServerSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module12/sample/URLSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module13/activity/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module13/activity/AccountDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module13/activity/AccountDAOException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module13/activity/AccountDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module13/activity/AccountDAOTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module13/activity/AccountImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module13/activity/SEF Activity.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module13/sample/ConnectionSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module13/sample/InsertSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module13/sample/PreparedStatementSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module13/sample/StatementSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module14/sample/ActionListenerFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module14/sample/BorderLayoutFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module14/sample/ComplexFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module14/sample/LayoutFrameSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module14/sample/SimpleJFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module15/activity/Permissable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module15/activity/Permission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module15/activity/PermissionList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module15/activity/PermissionsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module15/sample/AnnotationsSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module15/sample/AnnotationsSampleExt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module15/sample/AnonInnerClassSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module15/sample/AutoBoxingSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module15/sample/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module15/sample/EmployeeGenerics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module15/sample/EnhancedForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module15/sample/EnumBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module15/sample/EnumSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module15/sample/FindMyTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module15/sample/GenericSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module15/sample/InnerClassSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module15/sample/Seasons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module15/sample/Single.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module15/sample/StaticImportSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module15/sample/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module15/sample/UpperBound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module15/sample/VarArgsSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module15/sample/WildCardSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module16/sample/Samples.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module16/sample/Samples.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module16/sample/SystemIdentifierDTD.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module16/sample/classlist.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module16/sample/classroom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module16/sample/example.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module16/sample/person.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module16/sample/person_DTD.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module16/sample/person_XSD.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module16/sample/quote.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module17/activity/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module17/activity/Sequence Diagram.vsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module17/activity/State Diagram.vsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module18/activity/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module18/activity/EmployeeImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module18/activity/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module18/activity/EmployeeRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module18/activity/HRSSystemException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module18/activity/Project.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module18/activity/ProjectImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module18/activity/ProjectRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module18/activity/ProjectRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module18/sample/MyCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module18/sample/MyCalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module18/sample/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module18/sample/ProductTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module18/sample/test/Module 18 Sample - Test Scenarios and Conditions.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module18/sample/test/MyCalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module2/sample/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module3/activity/ArrayStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module3/activity/ArrayStackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module3/sample/ArrayDeclarationSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module3/sample/CastingSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module3/sample/DataTypesSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module3/sample/DecisionSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module3/sample/ForLoopSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module3/sample/MainSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module3/sample/MethodSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module3/sample/MultiDimensionalArraySample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module3/sample/OperatorSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module3/sample/SwitchSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module3/sample/VariableDeclarationSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module3/sample/VariableScoping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module3/sample/WhileLoopSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module4/activity/PlayingCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module4/activity/PlayingCardTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module4/sample/ClassInstanceSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module4/sample/FinalizeSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module4/sample/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module4/sample/StaticSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module5/sample/AdapterClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module5/sample/AdapterInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module5/sample/AdapterSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module5/sample/FactorySample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module5/sample/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module5/sample/SingletonRecommended.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module5/sample/SingltetonSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module5/sample/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module5/sample/WorkerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module5/sample/WorkerImplA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module5/sample/WorkerImplB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module5/sample/WorkerTypeA_Adapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module5/sample/WorkerTypeB_Adapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module6/activity/Point2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module6/activity/Point2DImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module6/activity/Point2DTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module6/activity/Point3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module6/activity/Point3DImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module6/activity/Point3DTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module6/sample/AbstractSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module6/sample/InheritanceSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module6/sample/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module6/sample/ReferenceCastingSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module6/sample/Speaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module6/sample/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module6/sample/VirtualMethodSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module7/activity/Currency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module7/activity/CurrencyImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module7/activity/CurrencyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module7/activity/Denomination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module7/activity/DenominationImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module7/activity/DenominationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module7/sample/General.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module7/sample/PersonSampleOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module7/sample/PersonSampleThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module7/sample/PersonSampleTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module7/sample/SetterGetterSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module7/sample/Strategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module7/sample/StrategyImplOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module7/sample/StrategyImplTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module7/sample/StrategySample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module8/activity/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module8/activity/AccountException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module8/activity/AccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module8/sample/ArrayExceptionSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module8/sample/AssertSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module8/sample/CheckedExceptionSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module8/sample/CustomException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module8/sample/CustomExceptionSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module8/sample/ErrorSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module8/sample/ExceptionDeclarationSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module8/sample/FileReaderSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module8/sample/FormatExceptionSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module8/sample/SQLExceptionSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module8/sample/SpecifyExceptionSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module8/sample/TryCatchFinallySample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module9/activity/DistanceComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module9/activity/Radar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module9/activity/Radar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module9/activity/RadarContact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module9/activity/RadarContactImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module9/activity/RadarContactTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module9/activity/RadarImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module9/activity/RadarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module9/sample/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module9/sample/CollectionsSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module9/sample/ComparableSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module9/sample/ListSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module9/sample/MapSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module9/sample/QueueSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module9/sample/SetSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/mytest/BadStyleCollectionWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/test/message/MMSMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/test/message/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/test/message/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/test/message/SMSMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/sef/module/percentage/Percentage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/sef/module13/activity/AccountDAOTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/sef/module15/activity/PermissionsTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/sef/module3/activity/ArrayStackTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/sef/module4/activity/PlayingCardTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/sef/module6/activity/Point2DTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/sef/module6/activity/Point3DTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/sef/module7/activity/CurrencyTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/sef/module7/activity/DenominationTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/sef/module8/activity/AccountTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/sef/module9/activity/RadarContactTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/sef/module9/activity/RadarTest1.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1VQpaMuIB06CKxhtmpZmRtS74pd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="AccountDA&#9;PSI&#9;JAVA://sef.module13.activity.AccountDAOImpl&#10;AccountDaO&#9;PSI&#9;JAVA://sef.module13.activity.AccountDAOTest" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="JUnit.ArrayStackTest1">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sef.module2.sample.HelloWorld" />
+      <module name="participant" />
+      <option name="PROGRAM_PARAMETERS" value="Dmitry" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sef.module2.sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountDAOTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="participant" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sef.module13.activity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sef.module13.activity" />
+      <option name="MAIN_CLASS_NAME" value="sef.module13.activity.AccountDAOTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayStackTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="participant" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sef.module3.activity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sef.module3.activity" />
+      <option name="MAIN_CLASS_NAME" value="sef.module3.activity.ArrayStackTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayStackTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="participant" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sef.module3.activity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sef.module3.activity" />
+      <option name="MAIN_CLASS_NAME" value="sef.module3.activity.ArrayStackTest1" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayStackTest.testPop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="participant" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sef.module3.activity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sef.module3.activity" />
+      <option name="MAIN_CLASS_NAME" value="sef.module3.activity.ArrayStackTest" />
+      <option name="METHOD_NAME" value="testPop" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.HelloWorld" />
+      <item itemvalue="JUnit.AccountDAOTest" />
+      <item itemvalue="JUnit.ArrayStackTest1" />
+      <item itemvalue="JUnit.ArrayStackTest" />
+      <item itemvalue="JUnit.ArrayStackTest.testPop" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ArrayStackTest1" />
+        <item itemvalue="JUnit.AccountDAOTest" />
+        <item itemvalue="JUnit.ArrayStackTest" />
+        <item itemvalue="JUnit.ArrayStackTest.testPop" />
+        <item itemvalue="Application.HelloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f969989-bc52-4e19-8734-49a15abc3adc" name="Default" comment="" />
+      <created>1511339270132</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1511339270132</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Project_Structure" timestamp="1577195291228">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1577195291228" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1577195330782">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1577195330782" />
+    <state width="618" height="175" key="GridCell.Tab.0.bottom" timestamp="1577212397211">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="618" height="175" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1577212397211" />
+    <state width="618" height="175" key="GridCell.Tab.0.center" timestamp="1577212397211">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="618" height="175" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1577212397211" />
+    <state width="618" height="175" key="GridCell.Tab.0.left" timestamp="1577212397210">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="618" height="175" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1577212397210" />
+    <state width="618" height="175" key="GridCell.Tab.0.right" timestamp="1577212397211">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="618" height="175" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1577212397211" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1577198361183">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1577198361183" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1577198361183">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1577198361183" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1577198361183">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1577198361183" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1577198361183">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1577198361183" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1577195339258">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1577195339258" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/participant$ArrayStackTest1.ic" NAME="ArrayStackTest1 Coverage Results" MODIFIED="1577197528503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>sef.module3.activity.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/participant$ArrayStackTest.ic" NAME="ArrayStackTest Coverage Results" MODIFIED="1577195933319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>sef.module3.activity.*</FILTER>
+    </SUITE>
+  </component>
+</project>
