@@ -22,10 +22,11 @@ public class AccountException extends Exception{
 	 * @param message The message to be set explaining the name violation (see static attributes)
 	 * @param name The actual name 
 	 */
+
+	private String name;
+
 	public AccountException(String message, String name){
-	
-		
-		
+		this.name = name;
 	}
 	
 	/**
@@ -34,7 +35,7 @@ public class AccountException extends Exception{
 	 * @return
 	 */
 	public String getName(){
-		return "";
+		return name;
 	}
 	
 	
